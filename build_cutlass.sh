@@ -1,4 +1,4 @@
-export CUDACXX=/usr/local/cuda/bin/nvcc
+export CUDACXX=/opt/conda/bin/nvcc
 export CC=/usr/bin/gcc
 export CXX=/usr/bin/g++
 cd submodules/cutlass
